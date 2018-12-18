@@ -12,3 +12,6 @@ phpを使ったDDDサンプル
 - index.php内でFactoryパターンを使ったクラスを呼び出しています
 - Factoryパターンのクラス群を生成する過程でValueObjectを使用しています
 
+## 動作方法
+
+ルートディレクトリで `php index.php` を実行して下さい
